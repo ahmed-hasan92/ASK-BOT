@@ -1,2 +1,1 @@
-ASK-BOT is a small app that consist of a single page. This app is built upon Google GEMINI v. 1.5 FLASH model. This app take a prompot from the user and generated text
-based on what the user asked the AI for. 
+ASK-BOT is an innovative single-page application powered by the Google GEMINI v1.5 FLASH model. This app allows users to input a prompt and receive dynamically generated text responses from the AI, tailored to their specific queries. With a sleek and intuitive interface, ASK-BOT harnesses the cutting-edge capabilities of Google's generative AI to provide intelligent, context-aware responses, making it a valuable tool for a variety of applications.
